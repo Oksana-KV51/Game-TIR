@@ -5,3 +5,5 @@ if a > b:
     print('а больше б')
 elif b < a:
     print('б больше чем а')
+else:
+    a = b
